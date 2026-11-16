@@ -1,0 +1,1 @@
+"""ClipMaster FastAPI backend package."""

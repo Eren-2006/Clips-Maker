@@ -1,0 +1,6 @@
+{
+  "name": "ClipMaster",
+  "description": "Turn long YouTube videos into ready-to-post 9:16 short clips with animated multilingual captions and AI virality scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
